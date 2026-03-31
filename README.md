@@ -23,3 +23,5 @@ Tracks body movement and displays rep count on screen.
 
 ## 👨‍💻 Author
 Kushagra Rai
+## 📷 Demo
+![Demo](demo.png)
